@@ -1,4 +1,4 @@
-# neenerrh.github.io
+# hkahmad.github.io
 
 Personal academic website of **Hafsa Kabir Ahmad, PhD**, Senior Lecturer and Faculty Deputy Dean, Faculty of Computing, Bayero University Kano.
 
@@ -19,13 +19,13 @@ Built on the [al-folio](https://github.com/alshedivat/al-folio) Jekyll theme and
 
 ## Deploy
 
-1. Create a public GitHub repository named `neenerrh.github.io`.
+1. Create a public GitHub repository named `hkahmad.github.io`.
 2. Push this folder to its `main` branch.
 3. In the repository's **Settings → Actions → General**, give workflows read and write permissions.
 4. Wait for the **Deploy site** action to finish. It builds the site into the `gh-pages` branch.
 5. In **Settings → Pages**, set the source to the `gh-pages` branch.
 
-The site is then live at <https://neenerrh.github.io>.
+The site is then live at <https://hkahmad.github.io>.
 
 ## Local preview
 

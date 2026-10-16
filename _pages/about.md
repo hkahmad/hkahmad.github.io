@@ -30,7 +30,7 @@ latest_posts:
 <div class="hero-links">
   <a class="hero-btn primary" href="{{ '/cv/' | relative_url }}"><i class="fa-solid fa-file-lines"></i> CV</a>
   <a class="hero-btn" href="https://scholar.google.com/citations?user=ekmjTNQAAAAJ&hl=en" target="_blank" rel="noopener"><i class="ai ai-google-scholar"></i> Scholar</a>
-  <a class="hero-btn" href="https://github.com/neenerrh" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>
+  <a class="hero-btn" href="https://github.com/hkahmad" target="_blank" rel="noopener"><i class="fa-brands fa-github"></i> GitHub</a>
   <a class="hero-btn" href="https://linkedin.com/in/hafsa-kabir-ahmad" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i> LinkedIn</a>
   <a class="hero-btn" href="mailto:hkahmad.cs@buk.edu.ng"><i class="fa-solid fa-envelope"></i> Email</a>
 </div>
