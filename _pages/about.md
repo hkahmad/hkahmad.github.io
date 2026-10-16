@@ -6,7 +6,7 @@ subtitle: Senior Lecturer & Faculty Deputy Dean, Faculty of Computing, Bayero Un
 
 profile:
   align: right
-  # image: prof_pic.jpg # add your photo to assets/img/ and uncomment this line
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Computer Science</p>
