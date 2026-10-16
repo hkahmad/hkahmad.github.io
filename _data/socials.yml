@@ -1,0 +1,8 @@
+# this file contains the social media links that will be displayed in the about page
+# and the contact page. the order of the links will be the same as the order in this file
+# check _includes/social.liquid for all supported options
+
+email: hkahmad.cs@buk.edu.ng # your email address
+github_username: neenerrh # your GitHub user name
+linkedin_username: hafsa-kabir-ahmad # your LinkedIn user name
+scholar_userid: ekmjTNQAAAAJ # your Google Scholar ID

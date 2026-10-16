@@ -1,0 +1,65 @@
+# Conferences / journals with enough of a presence in the bibliography to
+# warrant their own color. Everything else groups into arXiv / Workshop /
+# the shared journal color below, so the badge column stays legible rather
+# than turning into dozens of one-off colors.
+
+"ACL":
+  url: https://www.aclanthology.org/
+  color: "#2563eb"
+
+"NAACL":
+  url: https://naacl.org/
+  color: "#4f46e5"
+
+"EMNLP":
+  url: https://2024.emnlp.org/
+  color: "#be123c"
+
+"FAccT":
+  url: https://facctconference.org/
+  color: "#b45309"
+
+"ACII":
+  color: "#15803d"
+
+"SemEval":
+  url: https://semeval.github.io/
+  color: "#0891b2"
+
+"AfricaNLP":
+  url: https://africanlp-workshop.github.io/
+  color: "#a16207"
+
+"Workshop":
+  color: "#78716c"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#94a3b8"
+
+# Journals all share one color -- they're one category, not one-off brands --
+# with the real short-form abbreviation as the badge text.
+"TACL":
+  url: https://transacl.org/
+  color: &journal "#1e3a5f"
+"IP&M": { color: *journal }
+"SN CS": { color: *journal }
+"DTA": { color: *journal }
+"IJACSA": { color: *journal }
+"IEEE Access": { color: *journal }
+"ECR": { color: *journal }
+"MICPRO": { color: *journal }
+"CYSR": { color: *journal }
+"JAIT": { color: *journal }
+"JATIT": { color: *journal }
+"IJCNS": { color: *journal }
+"IJPCC": { color: *journal }
+"APJITM": { color: *journal }
+"IJACR": { color: *journal }
+"SLU JST": { color: *journal }
+"Stud. Educ.": { color: *journal }
+"ATBU JOSTE": { color: *journal }
+"JSRR": { color: *journal }
+"Educ. Africa": { color: *journal }
+"AIA": { color: *journal }
+"MDPI": { color: *journal }

@@ -1,0 +1,122 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hafsa Kabir Ahmad, PhD
+    - name: Position
+      value: Senior Lecturer & Faculty Deputy Dean, Bayero University Kano
+    - name: Email
+      value: hkahmad.cs@buk.edu.ng
+    - name: Location
+      value: Kano, Nigeria
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD, Computer Software and Theory
+      institution: Shaanxi Normal University, China
+      year: 2019 - 2023
+      description:
+        - "Thesis: Recommendation Methods in MOOCs using Graph Representation Learning."
+    - title: MSc, Computer Science
+      institution: Bayero University Kano, Nigeria
+      year: 2012 - 2015
+      description:
+        - "Dissertation: Design and Implementation of Mobile Learning Application: A Case Study of Department of Computer Science, Bayero University Kano."
+    - title: BSc, Computer Science
+      institution: Bayero University Kano, Nigeria
+      year: 2006 - 2011
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Senior Lecturer (latest position), Department of Computer Science
+      institution: Faculty of Computing, Bayero University Kano, Nigeria
+      year: Apr 2012 - Present
+
+- title: Administrative Positions
+  type: time_table
+  contents:
+    - title: Faculty Deputy Dean
+      institution: Faculty of Computing, Bayero University Kano
+      year: 2026
+    - title: Postgraduate Coordinator
+      institution: Bayero University Kano
+      year: 2024
+    - title: Level Coordinator
+      institution: Bayero University Kano
+      year: 2012 - 2018
+
+- title: Research Interests
+  type: list
+  contents:
+    - Recommender systems in online education (MOOCs)
+    - Graph representation learning and network embedding
+    - Educational data mining and personalised learning systems
+    - Responsible AI, including bias detection and mitigation in educational data mining
+
+- title: Teaching
+  type: nested_list
+  contents:
+    - title: Postgraduate, Bayero University Kano
+      items:
+        - Advanced Computer Programming
+        - Advanced Topics in Computer Science
+    - title: Undergraduate, Bayero University Kano
+      items:
+        - Research Methodology
+        - Special Topics in Computer Science
+        - Object-Oriented Programming
+        - Programming in C++
+        - Multimedia Techniques
+
+- title: Student Supervision
+  type: time_table
+  contents:
+    - title: "Michael Chika Asaa: Bias Mitigation in Machine Learning Models for Predicting Academic Performance: Ethical Considerations and Practical Solutions"
+      institution: MS Computer Science
+      year: 2024 - Present
+    - title: "Hauwa Sani Bello: Fake News Detection in African Languages (Hausa): A Comparative Study of AfriBERT, RoBERTa, mBERT, XLM-R, and TinyBERT Using an Improved Dataset"
+      institution: MS Computer Science
+      year: 2024 - Present
+    - title: "Ashiru Leko: WatchoutNaija: Towards Accurate Detection of Religion-oriented Hate Speech in Nigeria"
+      institution: MS Computer Science
+      year: 2024 - Present
+
+- title: Publications
+  type: list
+  contents:
+    - Peer-reviewed articles in venues including Applied Intelligence, Expert Systems with Applications, Applied Soft Computing, IEEE Transactions on Intelligent Transportation Systems, and SemEval. See the full list on the <a href="/publications/">Publications page</a> or <a href="https://scholar.google.com/citations?user=ekmjTNQAAAAJ&hl=en">Google Scholar</a>.
+
+- title: Presentations
+  type: time_table
+  contents:
+    - title: "Invited Seminar: The Concept of Readiness to Deploy AI"
+      institution: CITAD Research Methodology Workshop on AI Readiness for Sub-National Governments, Kano, Nigeria
+      year: 2026
+    - title: A Conceptual Framework for Top-N Recommendation Using Attributed Bipartite Graph Embedding
+      institution: 2020 International Conference on Networking and Network Applications (NaNA), IEEE
+      year: 2020
+    - title: "Design and Implementation of Mobile Learning Application: A Case Study of Department of Computer Science, BUK"
+      institution: Northwest University, Kano, 1st International Conference
+      year: 2015
+
+- title: Skills
+  type: map
+  contents:
+    - name: Programming
+      value: Python, PyTorch, TensorFlow, Pandas, NumPy, Matplotlib
+    - name: Data Science
+      value: Machine learning, predictive modelling, statistical analysis, data visualisation
+    - name: Methods
+      value: Graph representation learning, recommender systems, sequential recommendation
+    - name: Databases
+      value: Design, implementation, and management of relational databases
+    - name: Tools
+      value: Git, Microsoft Office, Google Cloud, Jupyter Notebooks
+
+- title: Professional Memberships
+  type: time_table
+  contents:
+    - title: Member, Nigerian Women in Information Technology (NIWIIT)
+      year: 2025 - Present
