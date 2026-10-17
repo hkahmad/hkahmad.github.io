@@ -13,7 +13,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Computer Software and Theory
+    - title: Doctor of Engineering (PhD), Computer Software and Theory
       institution: Shaanxi Normal University, China
       year: 2019 - 2023
       description:
@@ -45,7 +45,32 @@
       year: 2024
     - title: Level Coordinator
       institution: Bayero University Kano
-      year: 2012 - 2018
+      year: 2012 - 2019
+
+- title: Committee Membership
+  type: time_table
+  contents:
+    - title: Member, Faculty of Computing Conference Committee
+      institution: Bayero University Kano
+      year: 2025 - Present
+    - title: Member, Computer Loan Committee
+      institution: Bayero University Kano
+      year: 2025 - Present
+    - title: Member, AI Policy Committee
+      institution: Bayero University Kano
+      year: 2024
+    - title: Member, Faculty Board of Examiners, Faculty of Computing
+      institution: Bayero University Kano
+      year: 2012 - Present
+    - title: Member, Faculty Board of Examiners, Faculty of Agriculture (representing the Faculty of Computing)
+      institution: Bayero University Kano
+      year: 2012 - 2019
+    - title: Member, Pedagogy Framework Committee
+      institution: Bayero University Kano
+      year: 2013 - 2019
+    - title: Member, Landscaping Committee
+      institution: Bayero University Kano
+      year: 2013 - 2019
 
 - title: Research Interests
   type: list
@@ -60,12 +85,15 @@
   contents:
     - title: Postgraduate, Bayero University Kano
       items:
-        - Advanced Computer Programming
-        - Advanced Topics in Computer Science
+        - Advanced Programming Language
+        - CSC8314 Advanced Topics in Computer Science
     - title: Undergraduate, Bayero University Kano
       items:
-        - Research Methodology
-        - Special Topics in Computer Science
+        - COS101 Introduction to Computing
+        - BUK-COS104 Application Packages
+        - CSC2201 Computer Programming
+        - CSC3251 Research Methodology
+        - CSC4307 Special Topics in Computer Science
         - Object-Oriented Programming
         - Programming in C++
         - Multimedia Techniques
@@ -85,6 +113,16 @@
     - title: "Ashiru Leko: WatchoutNaija: Towards Accurate Detection of Religion-oriented Hate Speech in Nigeria"
       institution: MS Computer Science
       year: 2024 - Present
+    - title: Undergraduate final-year projects (32 students supervised)
+      institution: BSc Computer Science
+      year: 2012 - Present
+
+- title: Examination
+  type: time_table
+  contents:
+    - title: Internal examiner, MSc Computer Science dissertations (3 students)
+      institution: Bayero University Kano
+      year: 2024 - 2025
 
 - title: Publications
   type: list
@@ -125,3 +163,21 @@
       year: 2026 - Present
     - title: Member, Nigerian Women in Information Technology (NIWIIT)
       year: 2025 - Present
+
+- title: Community Service
+  type: time_table
+  contents:
+    - title: Member, Afraz Academy
+      year: 2020 - Present
+    - title: Member, Al-Aflah Foundation
+      year: 2017 - Present
+    - title: Member, 'Yan Arewa a China (Y.A.A.C)
+      year: 2019 - 2023
+    - title: Member, The Light, Old Female Students Association, Department of Computer Science, BUK
+      year: 2011 - Present
+    - title: Member, Musa Iliasu College Old Students Association
+      year: 2006 - Present
+    - title: National Youth Service Corps (NYSC)
+      year: 2011 - 2012
+    - title: Data Aggregation Technician, Independent National Electoral Commission (INEC)
+      year: 2011
