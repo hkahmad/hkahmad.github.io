@@ -73,6 +73,9 @@
 - title: Student Supervision
   type: time_table
   contents:
+    - title: "Mustapha Malam Garba: Decentralized Mobility-Aware Computational Offloading in Edge Computing Using Hybrid Model-Based and Model-Free Multi-Agent Reinforcement Learning Approach"
+      institution: MS Computer Science (completed)
+      year: 2026
     - title: "Michael Chika Asaa: Bias Mitigation in Machine Learning Models for Predicting Academic Performance: Ethical Considerations and Practical Solutions"
       institution: MS Computer Science
       year: 2024 - Present
@@ -118,5 +121,7 @@
 - title: Professional Memberships
   type: time_table
   contents:
+    - title: Member, Nigeria Computer Society (NCS)
+      year: 2026 - Present
     - title: Member, Nigerian Women in Information Technology (NIWIIT)
       year: 2025 - Present
