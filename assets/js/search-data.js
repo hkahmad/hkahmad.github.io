@@ -72,6 +72,9 @@ ninja.data = [{
           section: "News",},{id: "news-gave-an-invited-seminar-the-concept-of-readiness-to-deploy-ai-at-the-citad-research-methodology-workshop-on-ai-readiness-for-sub-national-governments-kano",
           title: 'Gave an invited seminar, The Concept of Readiness to Deploy AI, at the...',
           description: "",
+          section: "News",},{id: "news-admitted-as-a-member-of-the-nigeria-computer-society-ncs",
+          title: 'Admitted as a Member of the Nigeria Computer Society (NCS).',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
